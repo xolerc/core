@@ -11,3 +11,6 @@ A giant 3D cyberpunk city rendered with Three.js. Features a cylindrical city of
 
 ## How to open
 Open `index.html` in any modern browser with WebGL support.
+
+## 🔗 Rasmiy portfolio
+Barcha XOLERIC loyihalari: **https://xolerc.github.io/mydrime/**
